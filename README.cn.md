@@ -4,7 +4,7 @@
 
 Seamless, automatic, “dotfile” sync to iCloud.
 
-![Workbench](https://repo.x-cmd.io/Workbench.svg)
+![Workbench](https://repo.x-cmd.io/Workbench.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,12 @@ x install Workbench
 - **最新版本**: `1.0.9` (2019-03-19)
 - **最近提交**: 2019-04-26
 - **Release 含资产**: 1 个
-- **发布时间**: 2019-03-19T01:14:54Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [Workbench-1.0.9.zip](https://github.com/mxcl/Workbench/releases/download/1.0.9/Workbench-1.0.9.zip) | 3.7 MiB | `other` |
 
 ## 流行度
 
@@ -61,4 +66,4 @@ Workbench 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:24:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:59:43Z._
