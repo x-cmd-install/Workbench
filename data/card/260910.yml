@@ -119,4 +119,3 @@ total:
 ---
 
 ---
-{"id":16193623,"author":{"login":"mxcl","id":58962,"node_id":"MDQ6VXNlcjU4OTYy","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTE2MTkzNjIz","tag_name":"1.0.9","target_commitish":"master","name":"1.0.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2019-03-19T01:08:22Z","updated_at":"2019-03-19T01:14:54Z","published_at":"2019-03-19T01:14:54Z","assets":[{"id":11604215,"node_id":"MDEyOlJlbGVhc2VBc3NldDExNjA0MjE1","name":"Workbench-1.0.9.zip","label":null,"uploader":{"login":"mxcl","id":58962,"node_id":"MDQ6VXNlcjU4OTYy","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":3917230,"digest":null,"download_count":7784,"created_at":"2019-03-19T01:15:04Z","updated_at":"2019-03-19T01:15:12Z"}],"body":""}
